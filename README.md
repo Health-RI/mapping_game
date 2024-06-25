@@ -1,5 +1,5 @@
 # mapping_game
-Educational simple game to train metadata mapping
+Educational simple game to train metadata mapping, in the context of Health-RI.
 
 # Game play 
 -divide in groups (competition who finishes first and who has the best mapping)
