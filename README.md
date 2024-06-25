@@ -37,3 +37,7 @@ Solution
 The first group uses all cards (some joker cards may be left)
 
 It may or may not include a prize
+
+Original game file: https://docs.google.com/drawings/d/1S-eKLPo2FKgsxcn6rLEExGSHTsiyAjc8MHKZ4PxRgsU/edit?usp=sharing 
+
+Source: Game was inspired on https://www.pldn.nl/wiki/Play-a-LOD 
