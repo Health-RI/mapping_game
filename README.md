@@ -1,7 +1,7 @@
 # mapping_game
 Educational simple game to train metadata mapping
 
-# Game play (buy a prize)
+# Game play 
 -divide in groups (competition who finishes first and who has the best mapping)
 -explain the game objective
 	-match the metadata elements from the dataset to the model/schema
@@ -35,3 +35,5 @@ Solution
 
 # Game ends when
 First group uses all cards (some joker cards may be left)
+
+May or may not include a prize
