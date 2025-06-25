@@ -1,34 +1,34 @@
 # mapping_game
 Educational simple game to train metadata mapping, in the context of Health-RI.
-This version of the game was used in the Health-RI FAIR Data Stewards Basics Course 2024.
+This version of the game was used in the Health-RI FAIR Data Stewards Basics Course 2025.
 
 # Game play 
--divide people into groups (competition element may be who finishes first and who has the best mapping)
+- divide people into groups (competition element may be who finishes first and who has the best mapping)
 - each group receives a print of the Health-RI metadata schema and a print of an example metadata set for a dataset.
--explain the game objective
-	-match the metadata elements from the dataset to the model/schema
--distribute cards to the groups
--explain that there are different types of cards
--explain what types are there
+- explain the game objective
+	- match the metadata elements from the dataset to the model/schema
+- distribute cards to the groups
+- explain that there are different types of cards
+- explain what types are there
 
--rules
-	-no computers allowed
+- rules
+	- no computers allowed
 	 
--Game steps
-	-analyse the metadata cards  (attributes)
+- Game steps
+	-analyse the metadata cards (attributes)
 	-analyse the dataset elements (fields)
 	-analyse the value cards
-	-analyse joker/"missing" cards
+	-analyse "Missing" cards
 	-create a mapping of your dataset's metadata elements according to HRI metadata schema
-	-use "missing" cards where necessary (to be modelled and to be collected)
+	-use "Missing" cards where necessary (to be modelled and to be collected)
 
 Problems
-	-there are more elements in the dataset than in the model
-	-there are more elements in the model than in the dataset
+	- there are more elements in the dataset than in the model
+	- there are more elements in the model than in the dataset
 
 Solution
-	-correct dataset, metadata schema and values matching
-	-correct use of joker cards
+	- correct dataset, metadata schema and values matching
+	- correct use of "Missing" cards
 
 # Message of the game
 	- sometimes you don't have all the elements of the model (they become elements for you to collect)
@@ -37,7 +37,7 @@ Solution
 	- mapping can be straight forward but can also be ambiguous regarding interpretation (can use dcat identifier for both patient and sample). Seek community/data stewards help!
 
 # Game ends when
-The first group uses all cards (some joker cards may be left)
+The first group uses all cards (some "Missing" cards may be left)
 
 It may or may not include a prize
 
