@@ -35,7 +35,7 @@ This card contains a metadata value from the example dataset. Each Value card sh
 
 - **Missing card** <br>
 <img src="cards/Missing_card.png" alt="Missing card" width=100 height=110 title="Missing card"> <br>
-This card represent the missing value card in the metadata schema. The participants can use this card if they cannot find the correct value for a property, to let them know of missing information that would in real life situation still need to be collected.
+This card represent the missing card in the metadata schema. The participants can use this card if they cannot find the correct value for a property, to mimic missing information that would in real life situation still need to be collected, or if there is no fitting property for a certain value, to mimic missing fields in the model that would still need to be modelled.
 
 ## Relationships Between Cards
 
@@ -78,7 +78,7 @@ Where:
 - Each **Property card** must be matched with its correct **Class card** using the Health-RI schema printout.
 - Each **Value card** must be placed under the correct **Property card** based on the example metadata.
 - Use **Missing cards** when a value is expected but not present in the dataset.
-- If the example metadata includes a value that is not represented in the schema, do not force it into the model — this is an opportunity to identify potential schema extensions.
+- If the example metadata includes a value that is not represented in the schema, use **Missing cards** for a property — this is an opportunity to identify potential schema extensions.
 - Some **Property cards** may be valid for multiple **Class cards**. Use schema references or group discussion to determine the correct mapping.
 - The process may involve ambiguity or disagreement — resolving these collaboratively is part of the learning experience.
 	 
