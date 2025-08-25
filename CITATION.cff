@@ -2,7 +2,6 @@ cff-version: 1.2.0
 title: "Metadata Mapping Game"
 version: "3.0.0"
 license: "CC-BY-NC-SA-4.0"
-type: software
 abstract: >
   An educational game developed in the context of Health-RI to train metadata mapping. 
   Participants practice aligning real-world metadata to the Health-RI schema, understand 
@@ -12,9 +11,7 @@ message: "If you use this software, please cite it as below."
 authors:
   - given-names: "Bruna"
     family-names: "dos Santos Vieira"
-    affiliation:
-      - "Health-RI"
-      - "Radboud University Medical Center"
+    affiliation: "Health-RI; Radboud University Medical Center"
     orcid: "https://orcid.org/0000-0001-7893-0505"
   - given-names: "Ana"
     family-names: "Konrad"
@@ -37,3 +34,9 @@ keywords:
   - Health-RI
   - data stewardship
   - training
+references:
+  - type: lesson
+    doi: "10.5281/zenodo.15730018"
+    url: "https://zenodo.org/records/15730018"
+    title: "Health-RI FAIR data stewards basics course 2025"
+
