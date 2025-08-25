@@ -34,3 +34,9 @@ keywords:
   - Health-RI
   - data stewardship
   - training
+references:
+  - type: lesson
+    doi: "10.5281/zenodo.15730018"
+    url: "https://zenodo.org/records/15730018"
+    title: "Health-RI FAIR data stewards basics course 2025"
+
